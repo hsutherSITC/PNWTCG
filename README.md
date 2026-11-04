@@ -5,4 +5,4 @@ This repo contains examples, templates, and meeting materials.
 
 A [simple app](visNetwork/simple_editable_saveable/app.R) for creating network diagrams.
 
-(Note: the `.nojekyll` file is intentionally empty and is necessary for creating the website on GitHub. `make_quarto_yml.R` and everything within `.github/` are also needed for rendering the website.)
+To render the website locally, open this repository as the working directory in R and run `source("render_website.R")`. This generates `_quarto.yml` and renders the site to `scratch/site/`. The output is ignored by Git and can be copied to a web server.

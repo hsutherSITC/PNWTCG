@@ -1,5 +1,7 @@
 ---
 title: "Finding Documentation"
+execute:
+  eval: false
 ---
 
 ## Basic R function help

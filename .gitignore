@@ -54,5 +54,6 @@ scratch/
 
 /.quarto/
 **/*.quarto_ipynb
+_quarto.yml
 
 /.luarc.json

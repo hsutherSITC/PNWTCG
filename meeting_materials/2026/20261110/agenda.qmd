@@ -1,0 +1,28 @@
+---
+title: "Agenda"
+format:
+  html:
+    title-block-style: none
+---
+
+::: {style="text-align: center;"}
+
+# PNW Tribal Coding Group *Draft* Agenda
+
+Use the links at the bottom of the page to make suggested edits or start a discussion via GitHub issues.
+
+### November 10th, 2026, 2:00-3:30pm PST
+
+:::
+
+### Agenda
+
+1. Welcome and Introductions
+2. Open questions and announcements
+3. In-person workshop planning?
+4. Interest in and planning for session with Christina Mullin re: TADA
+5. Website walkthrough
+    a. New NWIFC url, new potential
+    b. Existing layout and utility for group organization and collaboration
+    c. [Agenda topics page](../../../meeting_materials/agenda_ideas.qmd) (and discussion of future priorities)
+    d. Review of content in existing demos
