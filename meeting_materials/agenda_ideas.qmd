@@ -4,11 +4,58 @@ title: "Agenda ideas"
 
 ## Topics
 
+### Coding basics, theory, and patterns
+
 ::: {.sortable-checklist}
 - [x] apply() family, do.call(), purrr vs loops
 - [x] Debugging patterns (tryCatch, stop, warning, message)
 - [ ] Code modularization: functions, scripts, package, box, read_chunk()
+- [ ] python, Python, PYTHON
+:::
+
+### Stats and modeling
+
+::: {.sortable-checklist}
 - [ ] Bayesian statistics with Stan, cmdstanr, and brms
-- [ ] nhdplustools -> hydrogeofetch; EPATADA & dataRetrieval; streamcattools, etc.
-- [ ] Interacting with tools and datasets from the Riverscapes Consortium
+- [ ] Model validation, sensitivity analysis, and power analyses
+- [ ] Overparameterized models, model selection, ensemble modeling, and model averaging
+- [ ] Machine learning, LLMs, etc.
+- [ ] Model specifics: FRAM, Beverton-Holt, Gaussian Processes, stationarity, GRTS, etc.
+:::
+
+### Getting data
+
+::: {.sortable-checklist}
+- [ ] nhdplustools -> hydrogeofetch; EPATADA & dataRetrieval; streamcattools, SSHIAP exchanges, etc.
+- [ ] Tools and datasets from the Riverscapes Consortium
+- [ ] General webfetch tools: httr, curl, standard web APIs
+:::
+
+### Communication and Visualization
+
+::: {.sortable-checklist}
+- [ ] Markdown, Quarto, Latex, github pages & jekyll, etc.
+- [ ] Shiny, dash, htmlwidgets, leaflet, visNetwork...
+- [ ] ggplot vs base R: rumble in the jungle
+:::
+
+### GIS
+
+::: {.sortable-checklist}
+- [ ] sf, terra, stars, maptools
+- [ ] arcgisbridge
+:::
+
+### Data management
+
+::: {.sortable-checklist}
+- [ ] Security hygiene: information to keep out of scripts, where to keep secure keys, GitHub secrets, etc.
+- [ ] Data formats: csv, tsv, json 
+- [ ] Databases: sqlite, mysql, arrow, parquet
+
+### Other
+
+::: {.sortable-checklist}
+- [ ] Meta: group organization, website, GitHub repo and issues, etc.
+- [ ] Coding agents and 'AI' ethics
 :::
