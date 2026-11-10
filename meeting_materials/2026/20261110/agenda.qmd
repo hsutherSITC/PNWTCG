@@ -26,4 +26,4 @@ Use the links at the bottom of the page to make suggested edits or start a discu
     b. Existing layout and utility for group organization and collaboration
     c. [Agenda topics page](../../../meeting_materials/agenda_ideas.qmd) (and discussion of future priorities)
     d. Review of content in existing demos
-5.5 Test pushing through an agenda item
+    e. Test pushing through an agenda item (this item is the test!)
